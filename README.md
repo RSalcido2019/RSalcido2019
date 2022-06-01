@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![Image of https://github.com/RSalcido2019/viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/RSalcido2019/viewscounter)
 
 Check out my contribution graph eaten by a snake. 🐍
-![snake gif](https://github.com/rsalcido2019/rsalcido2019/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://github.com/rsalcido2019/rsalcido2019/blob/output/github-contribution-grid-snake.svg#gh-dark-mode)
 

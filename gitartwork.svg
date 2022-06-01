@@ -1,6 +1,6 @@
 <svg width="717" height="124" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
     :root {
-    --c0: rgba(247, 250, 248, 1);
+    --c0: rgba(27, 31, 35, 0.08);
     --c1: #9be9a8;
     --c2: #40c463;
     --c3: #30a14e;

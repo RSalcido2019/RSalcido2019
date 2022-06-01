@@ -1,4 +1,4 @@
-### Hi there 👋   ![gitartwork]()
+### Hi there 👋   ![gitartwork](https://github.com/RSalcido2019/RSalcido2019/blob/main/gitartwork.svg)
 
 <!--
 **RSalcido2019/RSalcido2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

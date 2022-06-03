@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ---
 
 <div style="display: inline_block" align="center"><br>
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=rsalcido2019&show_icons=true&theme=dark&count_private=true" />
-  <img height="180em" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=rsalcido2019&theme=dark" />
+  <img height="180em" width="390" src="https://github-readme-stats.vercel.app/api?username=rsalcido2019&show_icons=true&theme=dark&count_private=true" />
+  <img height="180em" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rsalcido2019&theme=dark" />
 </div>
 <div style="display: inline_block" align="center"><br>
   <h3 align="center">Languages and Tools</h3>

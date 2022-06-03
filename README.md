@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  
 <div>
-<p align=right >
+<p align=right width=50% >
   <img   src=http://github-readme-streak-stats.herokuapp.com?user=rsalcido2019&theme=highcontrast&hide_border=true(https://git.io/streak-stats)> <img />
  </p>
  <p align=left >

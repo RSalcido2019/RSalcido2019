@@ -1,4 +1,8 @@
-Hi there 👋   ![gitartwork](https://github.com/RSalcido2019/RSalcido2019/blob/main/gitartwork.svg)
+Hi there 👋  
+
+<p align=center>
+    <img src=https://github.com/RSalcido2019/RSalcido2019/blob/main/gitartwork.svg />
+</p>
 
 <!--
 **RSalcido2019/RSalcido2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +23,14 @@ Here are some ideas to get you started:
 ---
 
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsalcido2019&show_icons=true&theme=github_dark&count_private=true) 
+ 
+
+<p align=center >
+  <img   src=http://github-readme-streak-stats.herokuapp.com?user=rsalcido2019&theme=highcontrast&hide_border=true(https://git.io/streak-stats)> <img />
+  <img src=https://github-readme-stats.vercel.app/api?username=rsalcido2019&show_icons=true&theme=github_dark&count_private=true <img />
+</p>
+
+
 
 [![Image of https://github.com/RSalcido2019/viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/RSalcido2019/viewscounter)
 

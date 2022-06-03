@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 
 ---
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+
+<div style="display: inline_block" align="center"><br>
+  <a href="https://github.com/ralcido2019">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsalcido2019&show_icons=true&theme=dark&count_private=true" />
   <img height="180em" style="border: solid 2px white" src="https://github-readme-streak-stats.herokuapp.com/?user=rsalcido2019&theme=dark" alt="rsalcido2019""/>
 </div>
@@ -47,7 +48,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rafa-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-
  
 
 <h3 align="center">Connect with me</h3>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+---
 
 
   <p align=center> Check out my contribution graph eaten by a snake. 🐍

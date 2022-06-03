@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
  
 <div>
-<p width=50% >
+<p width="100">
   <img   src=http://github-readme-streak-stats.herokuapp.com?user=rsalcido2019&theme=highcontrast&hide_border=true(https://git.io/streak-stats)> <img />
  </p>
- <p align=right >
+ <p width="100" align=right >
     <img src=https://github-readme-stats.vercel.app/api?username=rsalcido2019&show_icons=true&theme=github_dark&count_private=true <img />
 </p>
 </div>

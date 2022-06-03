@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 
 ---
 
-<div style="display: inline_block"; width="50%" align="center"><br>
-  <a href="https://github.com/ralcido2019">
+<div style="display: inline_block" align="center"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsalcido2019&show_icons=true&theme=dark&count_private=true" />
-  <img height="180em" style="border: solid 2px white" src="https://github-readme-streak-stats.herokuapp.com/?user=rsalcido2019&theme=dark" alt="rsalcido2019""/>
+  <img height="180em" style="border: solid 2px white" src="https://github-readme-streak-stats.herokuapp.com/?user=rsalcido2019&theme=dark" alt="rsalcido2019"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <h3 align="center">Languages and Tools</h3>

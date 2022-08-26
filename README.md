@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Android-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />     
   <img align="center" alt="Rafa-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Appium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" />
+   <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
  
 
